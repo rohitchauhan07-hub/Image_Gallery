@@ -14,12 +14,6 @@
   <li>Click on any image to view it in a larger size with a lightbox effect.</li>
   <li>Close the lightbox by clicking the close icon.</li>
 </ul>
-<h3>Usage</h3>
-Clone this repository:
-<br>
-<br>
 <h3>Contributing</h3>
 Feel free to fork this repository and submit pull requests. Contributions are welcome!
-<h3>License</h3>
-This project is licensed under the MIT License.
-<hr>
+
