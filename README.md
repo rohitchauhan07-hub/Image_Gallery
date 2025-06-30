@@ -17,7 +17,6 @@
 <h3>Usage</h3>
 Clone this repository:
 <br>
-<b>git clone https://github.com/PiyushPSS/ImageGallery-FrontEnd.git</b>
 <br>
 <h3>Contributing</h3>
 Feel free to fork this repository and submit pull requests. Contributions are welcome!
