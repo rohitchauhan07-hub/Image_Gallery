@@ -1,6 +1,5 @@
 <h2>Image Gallery</h2>
 <p>This project is a simple image gallery web application. It allows users to view thumbnails of images and click on them to see a larger version in a lightbox.</p>
-The project is live at: <a href="https://piyushpss.github.io/ImageGallery-FrontEnd/">Project Link</a>
 <br>
 <h3>Files</h3>
 <ul>
